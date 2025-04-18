@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kitkat7448
 - 👀 I’m interested in ... Programing, flying, learning, and anything you can prove is fun
-- 🌱 I’m currently learning ... C++ and getting a refresher on JavaScript, HTML, and CSS
+- 🌱 I’m currently learning ... Python, HTMl, CSS, JS, JSON, Libraries
 - 💞️ I’m looking to collaborate on ... Learning languages, and projects
 - 📫 How to reach me ... IDK
 - 😄 Pronouns: ... I hate having to answer this question but, He/Him
